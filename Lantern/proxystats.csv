@@ -1,0 +1,2 @@
+addr,label,attempts,successes,consec successes,failures,consec failures,est rtt,most recent bandwidth estimate,est bandwidth
+149.28.87.125:19477,fp-vllos1-20181111-070-lampshade (149.28.87.125:19477),71,71,72,0,0,545.928637ms,2018-12-03T19:04:44.0634782+08:00,527
